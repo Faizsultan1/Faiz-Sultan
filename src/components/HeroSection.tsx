@@ -50,7 +50,7 @@ const HeroSection = () => {
 					<span>GitHub</span>
 				</HoverBorderGradient>
 				</Link>
-				<Link href="/Faiz.cv.pdf">
+				<Link href="/FaizSultan.pdf">
 				<HoverBorderGradient
 					containerClassName="rounded-full"
 					as="button"
